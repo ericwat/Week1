@@ -5,36 +5,48 @@ internal class Program
     public static void Main(string[] args)
     {
         const string path = "C:\\Users\\P2788693\\source\\repos\\Week1\\FilterByPriceWithFile\\data.csv";
-
         using (var sr = new StreamReader(path))
         {
-            string[] inputData = sr.ReadToEnd().Split(",");
-            foreach (var car in inputData)
-            {
-                TrimEnd(car);
-            }
-            
-            // trim
-            
-            
-            // convert
-            
-            
-            // output
-            
-            Array.Sort(cars);
-            var index = 0;
-            foreach (var car in cars)
-            {
-                ++index;
-                Console.WriteLine("Vehicle #{0} - {1:C} MSRP\n", index, TrimEnd(car));
-            }
-        }
+            // load data from file
+            string[] inputCarData = sr.ReadToEnd().Split(",");
 
-        string TrimEnd(string car)
-        { 
-           char[] charsToTrim = {',', '.', ' ','?','\r','\n'};
-           return car.TrimEnd(charsToTrim);
+            // clean the data of extraneous characters and place it in a new array
+            int[] formattedCarData = new int[inputCarData.Length];
+
+            // trim and convert data from string to int
+            int index = 0;
+            foreach (var carPrice in inputCarData)
+            {
+                formattedCarData[index] = ConvertStringToInt(TrimEnd(carPrice));
+                index++;
+            }
+
+            // sort from low to high
+            Array.Sort(formattedCarData);
+
+            // sort from high to low
+            //Array.Reverse(formattedCarData);
+
+            // output
+            var printIndex = 0;
+            foreach (var carPrice in formattedCarData)
+            {
+                ++printIndex;
+                Console.WriteLine("Vehicle #{0} - {1:C} MSRP\n", printIndex, carPrice);
+            }
         }
+    }
+
+    private static string TrimEnd(string value)
+    {
+        char[] charsToTrim = { ',', '.', ' ', '?', '\r', '\n' };
+        return value.TrimEnd(charsToTrim);
+    }
+
+    private static int ConvertStringToInt(string value)
+    {
+        int parsedValue;
+        bool success = int.TryParse(value, out parsedValue);
+        return parsedValue;
     }
 }
