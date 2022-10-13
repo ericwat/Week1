@@ -1,0 +1,15 @@
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\bin\Debug\net6.0\FilterByPriceWithFile.exe
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\bin\Debug\net6.0\FilterByPriceWithFile.deps.json
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\bin\Debug\net6.0\FilterByPriceWithFile.runtimeconfig.json
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\bin\Debug\net6.0\FilterByPriceWithFile.dll
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\bin\Debug\net6.0\FilterByPriceWithFile.pdb
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\obj\Debug\net6.0\FilterByPriceWithFile.csproj.AssemblyReference.cache
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\obj\Debug\net6.0\FilterByPriceWithFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\obj\Debug\net6.0\FilterByPriceWithFile.AssemblyInfoInputs.cache
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\obj\Debug\net6.0\FilterByPriceWithFile.AssemblyInfo.cs
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\obj\Debug\net6.0\FilterByPriceWithFile.csproj.CoreCompileInputs.cache
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\obj\Debug\net6.0\FilterByPriceWithFile.dll
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\obj\Debug\net6.0\refint\FilterByPriceWithFile.dll
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\obj\Debug\net6.0\FilterByPriceWithFile.pdb
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\obj\Debug\net6.0\FilterByPriceWithFile.genruntimeconfig.cache
+C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\obj\Debug\net6.0\ref\FilterByPriceWithFile.dll

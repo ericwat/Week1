@@ -1,0 +1,15 @@
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\obj\Debug\net6.0\HelloWorldWithVariables.csproj.AssemblyReference.cache
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\obj\Debug\net6.0\HelloWorldWithVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\obj\Debug\net6.0\HelloWorldWithVariables.AssemblyInfoInputs.cache
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\obj\Debug\net6.0\HelloWorldWithVariables.AssemblyInfo.cs
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\obj\Debug\net6.0\HelloWorldWithVariables.csproj.CoreCompileInputs.cache
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\bin\Debug\net6.0\HelloWorldWithVariables.exe
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\bin\Debug\net6.0\HelloWorldWithVariables.deps.json
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\bin\Debug\net6.0\HelloWorldWithVariables.runtimeconfig.json
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\bin\Debug\net6.0\HelloWorldWithVariables.dll
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\bin\Debug\net6.0\HelloWorldWithVariables.pdb
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\obj\Debug\net6.0\HelloWorldWithVariables.dll
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\obj\Debug\net6.0\refint\HelloWorldWithVariables.dll
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\obj\Debug\net6.0\HelloWorldWithVariables.pdb
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\obj\Debug\net6.0\HelloWorldWithVariables.genruntimeconfig.cache
+C:\Users\P2788693\source\repos\Week1\HelloWorldWithVariables\obj\Debug\net6.0\ref\HelloWorldWithVariables.dll

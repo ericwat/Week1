@@ -1,0 +1,15 @@
+C:\Users\P2788693\source\repos\Week1\ShipIt2\bin\Debug\net6.0\ShipIt2.exe
+C:\Users\P2788693\source\repos\Week1\ShipIt2\bin\Debug\net6.0\ShipIt2.deps.json
+C:\Users\P2788693\source\repos\Week1\ShipIt2\bin\Debug\net6.0\ShipIt2.runtimeconfig.json
+C:\Users\P2788693\source\repos\Week1\ShipIt2\bin\Debug\net6.0\ShipIt2.dll
+C:\Users\P2788693\source\repos\Week1\ShipIt2\bin\Debug\net6.0\ShipIt2.pdb
+C:\Users\P2788693\source\repos\Week1\ShipIt2\obj\Debug\net6.0\ShipIt2.csproj.AssemblyReference.cache
+C:\Users\P2788693\source\repos\Week1\ShipIt2\obj\Debug\net6.0\ShipIt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P2788693\source\repos\Week1\ShipIt2\obj\Debug\net6.0\ShipIt2.AssemblyInfoInputs.cache
+C:\Users\P2788693\source\repos\Week1\ShipIt2\obj\Debug\net6.0\ShipIt2.AssemblyInfo.cs
+C:\Users\P2788693\source\repos\Week1\ShipIt2\obj\Debug\net6.0\ShipIt2.csproj.CoreCompileInputs.cache
+C:\Users\P2788693\source\repos\Week1\ShipIt2\obj\Debug\net6.0\ShipIt2.dll
+C:\Users\P2788693\source\repos\Week1\ShipIt2\obj\Debug\net6.0\refint\ShipIt2.dll
+C:\Users\P2788693\source\repos\Week1\ShipIt2\obj\Debug\net6.0\ShipIt2.pdb
+C:\Users\P2788693\source\repos\Week1\ShipIt2\obj\Debug\net6.0\ShipIt2.genruntimeconfig.cache
+C:\Users\P2788693\source\repos\Week1\ShipIt2\obj\Debug\net6.0\ref\ShipIt2.dll

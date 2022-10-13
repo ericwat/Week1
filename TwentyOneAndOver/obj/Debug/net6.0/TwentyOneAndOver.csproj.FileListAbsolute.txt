@@ -1,0 +1,15 @@
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\bin\Debug\net6.0\TwentyOneAndOver.exe
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\bin\Debug\net6.0\TwentyOneAndOver.deps.json
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\bin\Debug\net6.0\TwentyOneAndOver.runtimeconfig.json
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\bin\Debug\net6.0\TwentyOneAndOver.dll
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\bin\Debug\net6.0\TwentyOneAndOver.pdb
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\obj\Debug\net6.0\TwentyOneAndOver.csproj.AssemblyReference.cache
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\obj\Debug\net6.0\TwentyOneAndOver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\obj\Debug\net6.0\TwentyOneAndOver.AssemblyInfoInputs.cache
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\obj\Debug\net6.0\TwentyOneAndOver.AssemblyInfo.cs
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\obj\Debug\net6.0\TwentyOneAndOver.csproj.CoreCompileInputs.cache
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\obj\Debug\net6.0\TwentyOneAndOver.dll
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\obj\Debug\net6.0\refint\TwentyOneAndOver.dll
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\obj\Debug\net6.0\TwentyOneAndOver.pdb
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\obj\Debug\net6.0\TwentyOneAndOver.genruntimeconfig.cache
+C:\Users\P2788693\source\repos\Week1\TwentyOneAndOver\obj\Debug\net6.0\ref\TwentyOneAndOver.dll

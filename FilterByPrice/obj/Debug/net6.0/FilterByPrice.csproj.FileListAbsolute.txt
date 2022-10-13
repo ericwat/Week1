@@ -1,0 +1,15 @@
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\bin\Debug\net6.0\FilterByPrice.exe
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\bin\Debug\net6.0\FilterByPrice.deps.json
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\bin\Debug\net6.0\FilterByPrice.runtimeconfig.json
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\bin\Debug\net6.0\FilterByPrice.dll
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\bin\Debug\net6.0\FilterByPrice.pdb
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\obj\Debug\net6.0\FilterByPrice.csproj.AssemblyReference.cache
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\obj\Debug\net6.0\FilterByPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\obj\Debug\net6.0\FilterByPrice.AssemblyInfoInputs.cache
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\obj\Debug\net6.0\FilterByPrice.AssemblyInfo.cs
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\obj\Debug\net6.0\FilterByPrice.csproj.CoreCompileInputs.cache
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\obj\Debug\net6.0\FilterByPrice.dll
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\obj\Debug\net6.0\refint\FilterByPrice.dll
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\obj\Debug\net6.0\FilterByPrice.pdb
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\obj\Debug\net6.0\FilterByPrice.genruntimeconfig.cache
+C:\Users\P2788693\source\repos\Week1\FilterByPrice\obj\Debug\net6.0\ref\FilterByPrice.dll
