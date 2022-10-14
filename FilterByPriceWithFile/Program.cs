@@ -2,10 +2,14 @@
 
 internal class Program
 {
+    // pre-increment ++i - increment then get the value
+    // post-increment i++ - get the value then increment
     public static void Main(string[] args)
     {
         const string path = "C:\\Users\\P2788693\\source\\repos\\Week1\\FilterByPriceWithFile\\data.csv";
-        using (var sr = new StreamReader(path))
+
+        const string path2 = $@"C:\Users\P2788693\source\repos\Week1\FilterByPriceWithFile\data.csv";
+        using (var sr = new StreamReader(path2))
         {
             // load data from file
             string[] inputCarData = sr.ReadToEnd().Split(",");
